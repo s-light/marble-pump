@@ -1,8 +1,14 @@
 # marble-pump
 pump for wooden marbles
 
+as marbles i use [30mm Birch-Wood-Balls](https://www.holz-allerlei.de/holzkugeln-mit-bohrung/140/holzkugeln-30-mm-oe-mit-bohrung-buche?number=1530.160&c=33&nbnet=0#)
+
 ![Marble Pump CAD](export/marble-pump/pump%20with%20crank.png)
 ![Marble Pump CAD](export/marble-pump/pump%20with%20gears.png)
+
+the design is inspired from various sources.
+one is [James Dingley's Marble-Sorter](https://www.instructables.com/Marble-Sorter/)
+<!-- another pump-mechanism can be seen at https://www.bossdisplay.com/spectrum-ball-wall [detail](https://images.squarespace-cdn.com/content/v1/52f93b66e4b072f830abb8b8/1509129951490-9TPB22F5MINX88T7LO6N/DSC01731.jpg?format=10000w) -->
 
 ## License
 <!-- license info -->

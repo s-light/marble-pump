@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="300mm" version="1.2" viewBox="0 0 3000 3000" width="300mm">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page004 exported from FreeCAD document: marble_pump_export</desc>
+ <defs/>
+ <g id="Page004" inkscape:groupmode="layer" inkscape:label="TechDraw">
+  <g id="Default_Template_A4_Landscape4.svg" style="stroke: none;" transform="scale(10.000000, 10.000000)">
+   <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview221" inkscape:current-layer="svg2" inkscape:cx="552.92492" inkscape:cy="576.10431" inkscape:document-units="mm" inkscape:pagecheckerboard="true" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:window-height="2067" inkscape:window-maximized="1" inkscape:window-width="3840" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1.4119129" objecttolerance="10" pagecolor="#ffffff" showgrid="false" units="mm">
+    <inkscape:grid id="grid811" type="xygrid"/>
+   </sodipodi:namedview>
+   <!-- Working space 10 10 410 287 -->
+   <!-- Title block 220 227 410 287 -->
+   <metadata id="metadata849">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:title/>
+      <dc:date>01.03.2020</dc:date>
+      <dc:creator>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:creator>
+      <dc:rights>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:rights>
+      <dc:publisher>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:publisher>
+      <dc:language>EN / DE</dc:language>
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+     </cc:License>
+    </rdf:RDF>
+   </metadata>
+   <defs id="defs847"/>
+   <!-- DrawingContent -->
+  </g>
+  <g fill="none" fill-rule="evenodd" id="DrawingContent" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1">
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,619.387,2382.4)">
+    <path d="M-545.852,-249.09 C-667.168,16.7594 -579.314,331.345 -337.808,495.869 C-96.3013,660.394 228.61,627.002 431.604,416.795 C634.598,206.588 656.63,-119.29 483.778,-354.907 C310.925,-590.525 -6.53458,-667.346 -267.988,-536.826 C-276.702,-532.476 -282.762,-524.167 -284.241,-514.541 C-285.72,-504.915 -282.434,-495.17 -275.429,-488.405 L-205.364,-420.744 C-141.799,-359.36 -140.031,-258.069 -201.415,-194.504 C-262.799,-130.939 -364.09,-129.171 -427.655,-190.555 L-497.719,-258.216 C-504.725,-264.981 -514.579,-267.925 -524.147,-266.111 C-533.716,-264.296 -541.809,-257.95 -545.852,-249.09 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,619.387,1148.1)">
+    <path d="M581.985,-200 C484.578,-475.509 202.852,-640.774 -85.1618,-591.359 C-373.175,-541.944 -583.701,-292.222 -583.701,-7.34788e-14 C-583.701,292.222 -373.175,541.944 -85.1618,591.359 C202.852,640.774 484.578,475.509 581.985,200 C585.231,190.818 583.818,180.631 578.195,172.679 C572.573,164.728 563.44,160 553.701,160 L456.299,160 C367.934,160 296.299,88.3656 296.299,-5.14599e-14 C296.299,-88.3656 367.934,-160 456.299,-160 L553.701,-160 C563.44,-160 572.573,-164.728 578.195,-172.679 C583.818,-180.631 585.231,-190.818 581.985,-200 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1908.35,2382.4)">
+    <path d="M581.985,-200 C484.578,-475.509 202.852,-640.774 -85.1618,-591.359 C-373.175,-541.944 -583.701,-292.222 -583.701,-7.34788e-14 C-583.701,292.222 -373.175,541.944 -85.1618,591.359 C202.852,640.774 484.578,475.509 581.985,200 C585.231,190.818 583.818,180.631 578.195,172.679 C572.573,164.728 563.44,160 553.701,160 L456.299,160 C367.934,160 296.299,88.3656 296.299,-5.14599e-14 C296.299,-88.3656 367.934,-160 456.299,-160 L553.701,-160 C563.44,-160 572.573,-164.728 578.195,-172.679 C583.818,-180.631 585.231,-190.818 581.985,-200 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1247.44,2834.62)">
+    <path d="M160,0 C160,88.3656 88.3656,160 0,160 C-88.3656,160 -160,88.3656 -160,0 C-160,-88.3656 -88.3656,-160 0,-160 C88.3656,-160 160,-88.3656 160,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1247.44,2834.62)">
+    <path d="M-60,-60 L-60,60 L60,60 L60,-60 L-60,-60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,172.78,1771.27)">
+    <path d="M160,0 C160,88.3656 88.3656,160 0,160 C-88.3656,160 -160,88.3656 -160,0 C-160,-88.3656 -88.3656,-160 0,-160 C88.3656,-160 160,-88.3656 160,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,172.78,1771.27)">
+    <path d="M-50,-60 L-50,60 L50,60 L50,-60 L-50,-60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1564.39)">
+    <path d="M396.094,149.949 C450.597,151.369 501.578,123.103 529.248,76.1248 C556.917,29.1464 556.917,-29.1464 529.248,-76.1248 C501.578,-123.103 450.597,-151.369 396.094,-149.949 C185.902,-144.474 -23.72,-174.299 -224.044,-238.182 C-326.912,-270.986 -439.216,-234.044 -502.521,-146.578 C-565.826,-59.1121 -565.826,59.1121 -502.521,146.578 C-439.216,234.044 -326.912,270.986 -224.044,238.182 C-23.72,174.299 185.902,144.474 396.094,149.949 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1564.39)">
+    <path d="M-255,-60 L-255,60 L-345,60 L-345,-60 L-255,-60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1564.39)">
+    <path d="M365,-35 L435,-35 L435,35 L365,35 L365,-35" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1148.1)">
+    <path d="M-396.094,-149.949 C-450.597,-151.369 -501.578,-123.103 -529.248,-76.1248 C-556.917,-29.1464 -556.917,29.1464 -529.248,76.1248 C-501.578,123.103 -450.597,151.369 -396.094,149.949 C-185.902,144.474 23.72,174.299 224.044,238.182 C326.912,270.986 439.216,234.044 502.521,146.578 C565.826,59.1121 565.826,-59.1121 502.521,-146.578 C439.216,-234.044 326.912,-270.986 224.044,-238.182 C23.72,-174.299 -185.902,-144.474 -396.094,-149.949 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1148.1)">
+    <path d="M255,60 L255,-60 L345,-60 L345,60 L255,60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1716.04,1148.1)">
+    <path d="M-375,0 C-375,13.8071 -386.193,25 -400,25 C-413.807,25 -425,13.8071 -425,0 C-425,-13.8071 -413.807,-25 -400,-25 C-386.193,-25 -375,-13.8071 -375,0 " fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1564.19,836.875)">
+    <path d="M-339,-60 L-301,-60 L-301,-90 L-201,-90 L-201,-60 L19,-60 L19,-50 L139,-50 L339,-40 L339,40 L139,50 L19,50 L19,60 L-201,60 L-201,90 L-301,90 L-301,60 L-339,60 L-339,-60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,1835.95,703.391)">
+    <path d="M339,60 L301,60 L301,90 L201,90 L201,60 L-19,60 L-19,50 L-139,50 L-339,40 L-339,-40 L-139,-50 L-19,-50 L-19,-60 L201,-60 L201,-90 L301,-90 L301,-60 L339,-60 L339,60" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   <g fill="none" fill-opacity="1" font-family="Noto Sans" font-size="42.3333" font-style="normal" font-weight="400" stroke="#000000" transform="matrix(1,0,0,1,2346.99,1148.1)">
+    <path d="M60,-339 L60,-301 L90,-301 L90,-201 L60,-201 L60,19 L50,19 L50,139 L40,339 L-40,339 L-50,139 L-50,19 L-60,19 L-60,-201 L-90,-201 L-90,-301 L-60,-301 L-60,-339 L60,-339" fill-rule="evenodd" vector-effect="non-scaling-stroke"/>
+   </g>
+   </g>
+ </g>
+</svg>

@@ -1,7 +1,8 @@
 # marble-pump
 pump for wooden marbles
 
-![Marble Pump CAD](screenshots/2026-04-21T01:32:00.png)
+![Marble Pump CAD](export/marble-pump/pump%20with%20crank.png)
+![Marble Pump CAD](export/marble-pump/pump%20with%20gears.png)
 
 ## License
 <!-- license info -->

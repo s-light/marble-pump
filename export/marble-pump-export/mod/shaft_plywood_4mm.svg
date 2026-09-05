@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:freecad="https://www.freecad.org/wiki/index.php?title=Svg_Namespace" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" height="300mm" version="1.2" viewBox="0 0 4200 3000" width="420mm">
+ <title>FreeCAD SVG Export</title>
+ <desc>Drawing page: Page004 exported from FreeCAD document: marble_pump_export</desc>
+ <defs/>
+ <g id="Page004" inkscape:groupmode="layer" inkscape:label="TechDraw">
+  <g id="Default_Template_A4_Landscape4.svg" style="stroke: none;" transform="scale(10.000000, 10.000000)">
+   <sodipodi:namedview bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview221" inkscape:current-layer="svg2" inkscape:cx="553.15027" inkscape:cy="576.16869" inkscape:deskcolor="#505050" inkscape:document-units="mm" inkscape:pagecheckerboard="true" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:window-height="1659" inkscape:window-maximized="1" inkscape:window-width="3072" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="1.4119129" objecttolerance="10" pagecolor="#ffffff" showgrid="false" units="mm">
+    <inkscape:grid empspacing="10" id="grid811" originx="0" originy="0" spacingx="1" spacingy="1" type="xygrid" units="mm"/>
+   </sodipodi:namedview>
+   <!-- Working space 10 10 410 287 -->
+   <!-- Title block 220 227 410 287 -->
+   <metadata id="metadata849">
+    <rdf:RDF>
+     <cc:Work rdf:about="">
+      <dc:format>image/svg+xml</dc:format>
+      <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      <dc:date>25.04.2026</dc:date>
+      <dc:creator>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:creator>
+      <dc:rights>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:rights>
+      <dc:publisher>
+       <cc:Agent>
+        <dc:title>Stefan Krüger</dc:title>
+       </cc:Agent>
+      </dc:publisher>
+      <dc:language>EN / DE</dc:language>
+      <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+     </cc:Work>
+     <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+      <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+     </cc:License>
+    </rdf:RDF>
+   </metadata>
+   <defs id="defs847"/>
+   <!-- DrawingContent -->
+  </g>
+  <g fill="none" fill-rule="evenodd" id="DrawingContent" stroke="black" stroke-linecap="square" stroke-linejoin="bevel" stroke-width="1"/>
+ </g>
+</svg>
